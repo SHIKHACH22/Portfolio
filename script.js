@@ -52,7 +52,7 @@ document.title = "Come Back To Portfolio";
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-strings: ["Frontend Web development", "Tech Communities"],
+strings: ["AI-ML Enthusiast ","Frontend Web development", "Tech Communities"],
 loop: true,
 typeSpeed: 50,
 backSpeed: 25,
